@@ -1,0 +1,21 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "colorama >=0.4.6"
+  ],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "isort-5.13.2-py312haa95532_0.conda",
+  "license": "MIT",
+  "md5": "1ce73793eb47fb0a693e8b45ea6b6090",
+  "name": "isort",
+  "sha256": "1ac7fb62bb88f19dd9637234dbbeaf1a6fb6f926b1ad7953c727288aee720140",
+  "size": 357000,
+  "subdir": "win-64",
+  "timestamp": 1718292036000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/isort-5.13.2-py312haa95532_0.conda",
+  "version": "5.13.2"
+}
