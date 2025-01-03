@@ -1,0 +1,18 @@
+{
+  "arch": "x86_64",
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "constrains": [
+    "colorama >=0.4.6"
+  ],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "license": "MIT",
+  "license_family": "MIT",
+  "name": "isort",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1718292036230,
+  "version": "5.13.2"
+}
